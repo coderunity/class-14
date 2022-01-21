@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fiverr_wapp{
+    width: 600px;
+    margin: 200px auto;
+}
+
+#counter{
+    width: 600px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.form-inline{
+    display: flex;
+}
+
+.todolist{
+    width: 600px;
+    margin: 200px auto;
+}
